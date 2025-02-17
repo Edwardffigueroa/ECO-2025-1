@@ -1,0 +1,16 @@
+{
+  "name": "fetch-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "start-server": "npx json-server --port 3004 db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
